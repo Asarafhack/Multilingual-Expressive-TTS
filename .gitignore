@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+venv310/
+
+# Models & cache
+models/
+.cache/
+
+# Outputs
+data/outputs/
+*.wav
+
+# Training (optional - exclude to reduce size)
+training/
+
+# OS
+.DS_Store
+Thumbs.db
